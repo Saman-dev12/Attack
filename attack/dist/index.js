@@ -58,4 +58,4 @@ function main2() {
         }
     });
 }
-main();
+main2();
